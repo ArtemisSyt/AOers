@@ -6,4 +6,7 @@
   
 
 -  My first Oer is going to be published by the end of September amd is respecting
+
+-  https://artemissyt.github.io/AOers/Colors%20and%20their%20world%20_Sytilidou.pdf
+- 
 -  CC-BY-NC-SA
